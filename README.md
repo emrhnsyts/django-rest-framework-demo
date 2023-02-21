@@ -1,0 +1,1 @@
+## a simple project that uses django, djangorestframework and simplejwt
